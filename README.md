@@ -1,2 +1,2 @@
 # Chat Application 
-- This application is based on socket programming using client and server based model . 
+- This application is based on socket programming using a client-server model.
